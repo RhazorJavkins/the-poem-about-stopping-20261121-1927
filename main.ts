@@ -3,11 +3,11 @@ const { mkdirSync, writeFileSync } = require('node:fs');
 const poem = [
   'Stop, my daughter says.',
   'I open my fist.',
-  'The second braid unravels',
-  'through my fingers.',
+  'The second braid comes apart',
+  'one crossing at a time.',
   '',
   'Stay, she says.',
-  'She lifts her towel from the step.',
+  'She scoots over on the step.',
   'Her wet hair darkens my sleeve.',
 ].join('\n');
 
