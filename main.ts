@@ -2,13 +2,13 @@ const { mkdirSync, writeFileSync } = require('node:fs');
 
 const poem = [
   'Stop, my daughter says.',
-  'One braid done, the rest',
-  'still warm in my fist.',
-  'I open my hand.',
+  'I open my fist.',
+  'The second braid unravels',
+  'through my fingers.',
   '',
   'Stay, she says.',
-  'I sit beside her.',
-  'The loose half dries first.',
+  'She lifts her towel from the step.',
+  'Her wet hair darkens my sleeve.',
 ].join('\n');
 
 mkdirSync('/output', { recursive: true });
